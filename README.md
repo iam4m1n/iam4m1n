@@ -37,5 +37,6 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
   
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=am1nwithone&show_icons=true&locale=en&layout=compact" alt="am1nwithone" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=am1nwithone&show_icons=true&locale=en&layout=compact" alt="am1nwithone" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=am1nwithone&show_icons=true&locale=en" alt="am1nwithone" /></p>
