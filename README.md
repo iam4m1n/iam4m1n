@@ -3,7 +3,7 @@
 <h3 align="center">Python and Java Developer</h3>
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **python and java and algorithm questions**
 
@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/23908561/am1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="am1n" height="30" width="40" /></a>
 <a href="https://instagram.com/iam2in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam2in" height="30" width="40" /></a>
 <a href="https://t.me/iam4m1n" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="iam2in" height="30" width="30" /></a>
 </p>
